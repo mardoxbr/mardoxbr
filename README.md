@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652ec920f43a58c923e125c9?variant=dark)](https://roadmap.sh)
 <!--
 **mardoxbr/mardoxbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
